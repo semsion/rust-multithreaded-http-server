@@ -1,6 +1,6 @@
 ## Motivation
 
-This repository was created as a learning tool to comprehend some fundamental Rust methodologies in terms of parallel operations, and creating a HTTP server; which consists of a functioning multithreaded HTTP server, providing a lightweight front end to send requests to the server.
+This repository was created as a learning tool to comprehend some fundamental Rust methodologies in terms of parallel operations, and creating a HTTP server; which consists of a functioning multithreaded HTTP server, providing a lightweight front end for sending requests to the server.
 
 It was formed by working through project steps of 'The Rust Programming Language' book, with some minor adjustments, added unit tests for the thread pool, and added comments / documentation for public / non-public structs and functions. 
 
